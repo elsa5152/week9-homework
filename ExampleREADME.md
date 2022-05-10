@@ -1,30 +1,36 @@
-# readme file generator
+# readme generator
   ![Badge for GitHub](https://img.shields.io/github/languages/top/elsa5152/undefined?style=flat&logo=appveyor) 
   
   
   ## Description 
   
   
-  You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+  quickly create a professional README for a new project
   ## Table of Contents
+  * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [License](#license)
   
+  ## Installation
+  
+  
+  Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules
+  
   ## Usage 
   
    
-  123
+  GIVEN a command-line application that accepts user input
   
   ## Tests
   
   
-  like this
+  node index.js
   
   ## License
   
-  Boost Software License 1.0
+  GNU AGPLv3
   
   ---
   
